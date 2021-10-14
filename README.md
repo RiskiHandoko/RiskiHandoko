@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RiskiHandoko
-- 👀 I’m interested in Coding, Shopping, Traveling, gaming & Sport
+- 👀 I’m interested in Coding, Shopping, Traveling, Gaming & Sport
 - 🌱 I’m currently learning Vue js & other something fun
 - 💞️ I’m looking to collaborate on Gaming
 - 📫 How to reach me uziki.others@gmail.com
